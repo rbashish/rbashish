@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/rbashish/rbashish/blob/master/rbashish_cloud.png" alt="rbashish Readme.md cover photo" title="cover image" aligned="center" />
+
 <!--
 **rbashish/rbashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
