@@ -6,7 +6,7 @@
 Here are some more:
 
 - 🔭 I’m currently working on Private project
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Something useful...
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with funding my project
 - 💬 Ask me about AWS Cloud
